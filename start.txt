@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 fork test Git Quick Start demo
+=======
+test Git Quick Start demo
+Adding a branch test
+>>>>>>> branch_test
